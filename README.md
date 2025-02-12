@@ -1,6 +1,6 @@
 # Physics-aligned Schr\"{o}dinger Bridge
 
-This is a demo code for the conference paper "Physics-aligned field reconstruction with diffusionn bridge" submitted to the ICLR 2025, which is a diffusion-based method for physical field reconstruction that can generates high-quality contents with enhanced physical compliance.
+This is the source code for the conference paper "Physics-aligned field reconstruction with diffusionn bridge" in ICLR 2025, which is a diffusion-based method for physical field reconstruction that can generates high-quality contents with enhanced physical compliance.
 
 This code is based on these two repositories: https://github.com/NVlabs/I2SB ([I2SB](https://arxiv.org/abs/2302.05872)) and https://github.com/Algolzw/image-restoration-sde ([IRSDE](https://proceedings.mlr.press/v202/luo23b.html)).
 
